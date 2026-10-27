@@ -1,0 +1,14 @@
+# Obsidian 工作区状态（本机临时状态，不进版本库）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# 系统文件
+.DS_Store
+*.url
+
+# 大文件原稿不进库（原件统一放 ~/Downloads/00.中考/，资料库只放索引与精选小文件）
+*.pdf
+*.pptx
+*.zip

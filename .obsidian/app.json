@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "90-资料库/附件",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "promptDelete": true
+}
