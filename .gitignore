@@ -13,5 +13,4 @@
 *.pptx
 *.zip
 
-# 题库配图原文件不进 git（11k张，见 90-资料库/scripts/smartedu/backfill_pkg_images.py）
-91-题库/assets/
+# 2026-11-01 用户要求：题库配图纳入 git（clone 即完整 vault）
